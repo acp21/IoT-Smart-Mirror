@@ -14,7 +14,7 @@ from kivy.uix.boxlayout import BoxLayout
 import spotipy
 
 SPOTIPY_CLIENT_ID="41ab06391a18471bad7528fa4952ed8d"
-SPOTIPY_CLIENT_SECRET="eff525cb68ee46c8a3623eb627ff00f5"
+SPOTIPY_CLIENT_SECRET=""
 
 apikey = "c3c492a15455fbdbf933ae22da3863f7"
 city = "kalamazoo"
